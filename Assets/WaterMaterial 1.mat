@@ -6,7 +6,7 @@ Material:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: WaterMaterial
+  m_Name: WaterMaterial 1
   m_Shader: {fileID: 4800000, guid: 3d771752a68fce14aa4d0800a57cddda, type: 3}
   m_ShaderKeywords: _EMISSION
   m_LightmapFlags: 1
@@ -84,7 +84,7 @@ Material:
       second: 0
     - first:
         name: _Frequency
-      second: 3.46
+      second: 1.99
     - first:
         name: _GlossMapScale
       second: 1
@@ -126,14 +126,14 @@ Material:
       second: 2
     - first:
         name: _WaveSpeed
-      second: 0.09
+      second: 0.64
     - first:
         name: _ZWrite
       second: 1
     m_Colors:
     - first:
         name: _Color
-      second: {r: 1, g: 1, b: 1, a: 1}
+      second: {r: 0.2187206, g: 0.6614608, b: 0.78676474, a: 1}
     - first:
         name: _EmissionColor
       second: {r: 0, g: 0, b: 0, a: 1}

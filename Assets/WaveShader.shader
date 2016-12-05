@@ -10,9 +10,9 @@
 
 		_Frequency ("Distortion Frequency", Float) = 1.0
 
-		_WaveLength ("Distortion Wavelength", Float) = 1.0
+		_WaveLength ("Wavelength", Float) = 1.0
 
-		_WaveSpeed ("Distortion Wave Speed", Float) = 0.5
+		_WaveSpeed ("Wave Speed", Float) = 0.5
 
 
 	}
